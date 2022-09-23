@@ -1,0 +1,2 @@
+Initial state: (smaller_d_0_p_0) (smaller_d_0_p_1) (smaller_d_0_p_2) (smaller_d_1_p_0) (smaller_d_1_p_1) (smaller_d_1_p_2) (smaller_d_2_p_0) (smaller_d_2_p_1) (smaller_d_2_p_2) (smaller_d_0_d_1) (smaller_d_0_d_2) (smaller_d_1_d_2) (clear_p_1) (clear_p_2) (clear_d_0) (on_d_0_d_1) (on_d_1_d_2) (on_d_2_p_0)
+Goal state: (on_d_0_d_1) (on_d_1_d_2) (on_d_2_p_2)
